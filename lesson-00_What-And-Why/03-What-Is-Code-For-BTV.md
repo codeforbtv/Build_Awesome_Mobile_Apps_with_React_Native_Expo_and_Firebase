@@ -1,5 +1,7 @@
 # What Is Code For BTV?
 
+http://www.codeforbtv.org/about-code-btv
+
 
 ## We're Civic Technologists
 
