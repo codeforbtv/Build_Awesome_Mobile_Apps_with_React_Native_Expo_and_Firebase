@@ -1,4 +1,4 @@
-# What Is Code For BTV?
+# Who Is Code For BTV?
 
 http://www.codeforbtv.org/about-code-btv
 
