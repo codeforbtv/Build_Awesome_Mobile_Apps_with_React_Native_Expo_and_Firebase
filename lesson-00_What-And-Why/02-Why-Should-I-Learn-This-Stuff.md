@@ -2,7 +2,7 @@
 
 There are lots of technologies for building mobile applications, so why learn these?
 
-React Native :
+## React Native :
 
 React.js is a Javascript library for building user interfaces, created and open-sourced by Facebook. Evolving beyond MVC (Module-View-Controller), React couples the logic and view into one file using component-based architecture. Besides Facebook, React is also used by Instagram, Netflix, Paypal, and Apple -- and is the core of Code for BTV's Mobile Apps Stack.  React can also be used to produce web applications, native mobile apps, command line interfaces, avionics and much more.
 
@@ -10,7 +10,7 @@ React Native is an open-source mobile application framework. It is used to devel
 
 More: [https://www.pluralsight.com/blog/software-development/why-learn-react]
 
-Expo : 
+## Expo : 
 
 Expo is an open-source platform for making universal native apps with JavaScript and React.Expo offers a set of tools and services for building, deploying, and quickly iterating on native iOS, Android, and web apps from the same codebase.  Expo enables the developer to test on a real device without having an Apple Developer Account via a free Expo app in the Google Play and App Store, opened by capturing a QR code displayed by the desktop app. 
 
@@ -18,4 +18,10 @@ Expo has an SDK to handle device interfaces like using the camera, accelerometer
 
 More: [https://docs.expo.io/versions/latest/]
 
-Firebase :
+## Firebase :
+
+Firebase is a mobile and web application development platform developed by Firebase, Inc. in 2011, then acquired by Google in 2014. The Firebase Realtime Database is a cloud-hosted NoSQL database that enables data to be stored and synced between users in real time. The data is synced across all clients in real time and is still available when an app goes offline. 
+
+Firebase offers added functionality like analytics,  messaging and crash reporting. It is built on Google infrastructure and scales automatically, for even the largest apps.
+
+More: [https://firebase.google.com]
