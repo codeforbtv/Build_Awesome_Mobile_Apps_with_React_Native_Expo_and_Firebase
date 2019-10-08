@@ -1,4 +1,4 @@
-# Getting Setup on Mac
+# Getting Set up on Mac
 
 ## Install the Expo App on Your Phone
 One reason Expo is such a great development environment is that it makes it easy to run and debug your mobile right on your phone. The Expo phone app makes that super easy.  The app requires a free Expo account.  Head over to the Expo web-site and  sign up for a free account.
@@ -146,19 +146,13 @@ With Expo, you can use your own phone to run and debug your app. Nonetheless hav
 	/Users/myname/Library/Android/sdk
 	```
 
-6. Next configure Genymotion to use the same adb that added to your path. Click the "Settings" button to open the settings dialog select the "ADB" tab.
-
-7. Select the "Use custom Android SDK tools" and enter the path to the Andriod sdk folder. If you installed android studio locally, the path should be `/Users/<your username>/Library/Android/sdk`. It can be confusing to browse to the sdk folder so just type the path into the field instead; Genymotion will tell you if you mistype the path.
-
-    ![Alt](assets/mac/genymotion-adb-tab.png "Genymotion ADB")
-
-8. Now we need to add an emulator (virtual device). Download a virtual device by launching Genymotion and clicking the "Add" button.
+6. Now we need to add an emulator (virtual device). Download a virtual device by launching Genymotion and clicking the "Add" button.
 
     ![Alt](assets/mac/genymotion-your-virtual-devices-screen.png "Genymotion Virtual Devices")
 
-9. Select a virtual device (Google Pixel is a good choice) and click the "Next" button. You'll have a chance to rename the device if you don't like the default.
+7. Select a virtual device (Google Pixel is a good choice) and click the "Next" button. You'll have a chance to rename the device if you don't like the default.
 
-10. Test your installation by choosing the virtual device you just installed and click the "Start" button. Your emulator should start.
+8. Test your installation by choosing the virtual device you just installed and click the "Start" button. Your emulator should start.
 
     ![Alt](assets/mac/emulator.png "Genymotion Emulator")
 
