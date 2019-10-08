@@ -150,9 +150,15 @@ With Expo, you can use your own phone to run and debug your app. Nonetheless hav
 
     ![Alt](assets/mac/genymotion-your-virtual-devices-screen.png "Genymotion Virtual Devices")
 
-7. Select a virtual device (Google Pixel is a good choice) and click the "Next" button. You'll have a chance to rename the device if you don't like the default.
+7. Next configure Genymotion to use the same adb that added to your path. Click the "Settings" button to open the settings dialog select the "ADB" tab.
 
-8. Test your installation by choosing the virtual device you just installed and click the "Start" button. Your emulator should start.
+8. Select the "Use custom Android SDK tools" and enter the path to the Andriod sdk folder. If you installed android studio locally, the path should be /Users/<your username>/Library/Android/sdk. It can be confusing to browse to the sdk folder so just type the path into the field instead; Genymotion will tell you if you mistype the path.
+	
+9. Select a virtual device (Google Pixel is a good choice) and click the "Next" button. You'll have a chance to rename the device if you don't like the default.
+
+![Alt](assets/mac/genymotion-adb-tab.png "Genymotion Assets Tab")
+
+10. Test your installation by choosing the virtual device you just installed and click the "Start" button. Your emulator should start.
 
     ![Alt](assets/mac/emulator.png "Genymotion Emulator")
 
