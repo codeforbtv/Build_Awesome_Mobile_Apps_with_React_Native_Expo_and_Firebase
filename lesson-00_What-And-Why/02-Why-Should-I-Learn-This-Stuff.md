@@ -22,6 +22,6 @@ More: [https://docs.expo.io/versions/latest/]
 
 Firebase is a mobile and web application development platform developed by Firebase, Inc. in 2011, then acquired by Google in 2014. The Firebase Realtime Database is a cloud-hosted NoSQL database that enables data to be stored and synced between users in real time. The data is synced across all clients in real time and is still available when an app goes offline. 
 
-Firebase offers added functionality like analytics,  messaging and crash reporting. It is built on Google infrastructure and scales automatically, for even the largest apps.
+Another benefit of Firebase to CodeforBTV that we do not need to maintain any servers.  Firebase also offers added functionality like analytics,  messaging and crash reporting. It is built on Google infrastructure and scales automatically, for even the largest apps.
 
 More: [https://firebase.google.com]
