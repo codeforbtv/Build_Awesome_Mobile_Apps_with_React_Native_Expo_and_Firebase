@@ -5,7 +5,7 @@ One reason Expo is such a great development environment is that it makes it easy
 
 1. Go to http://expo.io and click the "Create an account" button.
 
-    ![Alt](assets/mac/expo-website.png "Expo Website")
+    ![Alt](assets/mac/expo-website.png | width=100 "Expo Website")
 
 2. Install the Expo Client app on your phone. Search for it in your app store and install it.  It's free!
 
