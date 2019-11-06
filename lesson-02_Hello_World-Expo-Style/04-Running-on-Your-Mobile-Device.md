@@ -28,7 +28,7 @@ You should now see your new app's splash screen as your app builds and downloads
 
 **Note**: If you're having issues connecting, make sure your phone is connected to the same wifi network as your computer.   If can't do that or there are firewall issues, try switching the connection type from 'LAN' to "Tunnel."  The switch is located on the Dev Tools window
 
-<img src="assets/02/choose-tunnel.jpg" width="300" alt="Choose Tunnel"/>
+<img src="assets/02/choose-tunnel.png" width="300" alt="Choose Tunnel"/>
 
 ## Editing Your "Hello World" App
 
