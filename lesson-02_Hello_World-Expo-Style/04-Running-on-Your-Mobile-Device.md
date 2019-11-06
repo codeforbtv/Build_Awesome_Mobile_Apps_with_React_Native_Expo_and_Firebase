@@ -28,6 +28,8 @@ You should now see your new app's splash screen as your app builds and downloads
 
 **Note**: If you're having issues connecting, make sure your phone is connected to the same wifi network as your computer.   If can't do that or there are firewall issues, try switching the connection type from 'LAN' to "Tunnel."  The switch is located on the Dev Tools window
 
+<img src="assets/02/choose-tunnel.jpg" width="300" alt="Choose Tunnel"/>
+
 ## Editing Your "Hello World" App
 
 Now that we have a working app, let's change it to display "Hello World."  Launch Visual Studio Code and open your project folder.  Click `File => Open`.  Then select your project folder.   In the Explorer panel on the left, Expand "HELLO-WORLD" and then select the App.js file.
