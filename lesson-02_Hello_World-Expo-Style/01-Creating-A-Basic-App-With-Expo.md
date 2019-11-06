@@ -19,6 +19,9 @@ You should be prompted to "Choose a template.
 
 ![alt_text](assets/01/power-shell-project-ready.png "PowerShell: choose template")
 
+Two lines of configuration options will appear within the command line for entering the app name. 
+
+![alt_text](assets/01/power-shell-enter-name.png "Command Line config options")
 
 After everything is done installing, Expo will give you instructions on how to start your app.  Type these two commands:
 
